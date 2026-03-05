@@ -1,5 +1,6 @@
 
 import './App.css'
+import Home from './Compnents/Home'
 
 function App() {
   
@@ -50,6 +51,7 @@ function App() {
     
     <div>
       <p>This is my project</p>
+      <Home></Home>
     </div>
       
     </>
